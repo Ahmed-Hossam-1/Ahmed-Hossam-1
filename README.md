@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-hossam-1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-hossam-1" /> </p>
 
-- 💬 Ask me about **ReactJS, JS**
-
 - 📫 How to reach me **ahmedhossammahmmoud@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
